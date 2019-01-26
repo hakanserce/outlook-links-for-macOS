@@ -1,0 +1,13 @@
+   <key>CFBundleIdentifier</key>
+   <string>org.personal.outlook</string>
+   <key>CFBundleURLTypes</key>
+   <array>
+       <dict>
+           <key>CFBundleURLName</key>
+           <string>Pass To OutlookUriHandler</string>
+           <key>CFBundleURLSchemes</key>
+           <array>
+               <string>outlook</string>
+           </array>
+       </dict>
+   </array>
